@@ -15,5 +15,5 @@ It contains implementations, experiments, and results from different deep learni
 Clone this repository and navigate to the appropriate directory to run the deep learning experiments.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Sajrudin/Deep-Learning-Practice.git
 cd Deep-Learning-Practice
